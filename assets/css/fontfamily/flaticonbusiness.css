@@ -1,0 +1,30 @@
+ @font-face {
+			font-family: 'sor-iransans';
+			font-weight:normal;
+			font-weight:400;
+			src: url('../../fonts/sor-iransans.woff2') format('woff2');
+		}
+		@font-face {
+			font-family: 'sor-iransans';
+			font-weight:bold;
+			font-weight:700;
+			src: url('../../fonts/sor-iransans-bold.woff2') format('woff2');
+		} 
+	
+		@font-face {
+			font-family: 'sor-iransans';
+			font-weight:medium;
+			font-weight:500;
+			src: url('../../fonts/fonts/sor-iransans-medium.woff2') format('woff2');
+		} 
+	
+		@font-face {
+			font-family: '$font_family';
+ 			font-weight:900;
+			src: url('../../fonts/sor-iransans-black.woff2') format('woff2');
+		} 	
+		@font-face {
+			font-family: 'sor-iransans';
+ 			font-weight:300;
+			src: url('../../fonts/sor-iransans-light.woff2') format('woff2');
+		} 	
